@@ -1,3 +1,5 @@
+> **Getting Started:**
+> [![Gradient](https://assets.paperspace.io/img/gradient-badge.svg)](https://console.paperspace.com/github/gradient-ai/IDEFICS2?machine=Free-GPU)
 ---
 title: "Introducing Idefics2: A Powerful 8B Vision-Language Model for the community"
 thumbnail: /blog/assets/idefics/thumbnail.png
